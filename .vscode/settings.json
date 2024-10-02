@@ -7,5 +7,7 @@
         "STREQ",
         "structs",
         "valgrind"
+        "astute"
+    
     ]
 }
